@@ -14,4 +14,5 @@ Kullanılan Teknolojiler
 
 ### `Video`
 
+https://user-images.githubusercontent.com/14139979/140716000-cd306b82-75cf-4d5b-81d2-3217a6467ee5.mp4
 
