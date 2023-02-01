@@ -8,8 +8,8 @@ Kullanılan Teknolojiler
 `BaseNative UI`
 
 ### `Ekran Görüntüleri`
-<img src="https://i.hizliresim.com/m86x3eq.PNG" width=60% height=60%>
-<img src="https://i.hizliresim.com/gntrizl.PNG" width=60% height=60%>
+<img src="https://i.hizliresim.com/m86x3eq.PNG" width=40% height=40%>
+<img src="https://i.hizliresim.com/gntrizl.PNG" width=40% height=40%>
  
 ### `Video`
 
